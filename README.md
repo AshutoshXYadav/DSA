@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AshutoshXYadav/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AshutoshXYadav/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0739-daily-temperatures](https://github.com/AshutoshXYadav/DSA/tree/master/0739-daily-temperatures) |
 | [2549-count-distinct-numbers-on-board](https://github.com/AshutoshXYadav/DSA/tree/master/2549-count-distinct-numbers-on-board) |
 ## Hash Table
 |  |
@@ -92,9 +93,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AshutoshXYadav/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0739-daily-temperatures](https://github.com/AshutoshXYadav/DSA/tree/master/0739-daily-temperatures) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AshutoshXYadav/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/AshutoshXYadav/DSA/tree/master/0700-search-in-a-binary-search-tree) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/AshutoshXYadav/DSA/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
