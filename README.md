@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AshutoshXYadav/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AshutoshXYadav/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0496-next-greater-element-i](https://github.com/AshutoshXYadav/DSA/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/AshutoshXYadav/DSA/tree/master/0739-daily-temperatures) |
 | [2549-count-distinct-numbers-on-board](https://github.com/AshutoshXYadav/DSA/tree/master/2549-count-distinct-numbers-on-board) |
 ## Hash Table
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AshutoshXYadav/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AshutoshXYadav/DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0496-next-greater-element-i](https://github.com/AshutoshXYadav/DSA/tree/master/0496-next-greater-element-i) |
 | [2549-count-distinct-numbers-on-board](https://github.com/AshutoshXYadav/DSA/tree/master/2549-count-distinct-numbers-on-board) |
 ## Divide and Conquer
 |  |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AshutoshXYadav/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0496-next-greater-element-i](https://github.com/AshutoshXYadav/DSA/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/AshutoshXYadav/DSA/tree/master/0739-daily-temperatures) |
 ## Binary Search Tree
 |  |
@@ -102,5 +105,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/AshutoshXYadav/DSA/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/AshutoshXYadav/DSA/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
