@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/AshutoshXYadav/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AshutoshXYadav/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AshutoshXYadav/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/AshutoshXYadav/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/AshutoshXYadav/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/AshutoshXYadav/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Breadth-First Search
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/AshutoshXYadav/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/AshutoshXYadav/DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/AshutoshXYadav/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/AshutoshXYadav/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AshutoshXYadav/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AshutoshXYadav/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/AshutoshXYadav/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/AshutoshXYadav/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/AshutoshXYadav/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Depth-First Search
@@ -50,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/AshutoshXYadav/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AshutoshXYadav/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AshutoshXYadav/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/AshutoshXYadav/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -69,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AshutoshXYadav/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AshutoshXYadav/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0496-next-greater-element-i](https://github.com/AshutoshXYadav/DSA/tree/master/0496-next-greater-element-i) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/AshutoshXYadav/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2549-count-distinct-numbers-on-board](https://github.com/AshutoshXYadav/DSA/tree/master/2549-count-distinct-numbers-on-board) |
 ## Divide and Conquer
 |  |
@@ -98,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/AshutoshXYadav/DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/AshutoshXYadav/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0876-middle-of-the-linked-list](https://github.com/AshutoshXYadav/DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
@@ -121,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/AshutoshXYadav/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AshutoshXYadav/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AshutoshXYadav/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/AshutoshXYadav/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/AshutoshXYadav/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/AshutoshXYadav/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Monotonic Stack
