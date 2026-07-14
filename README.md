@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/AshutoshXYadav/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/AshutoshXYadav/DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0200-number-of-islands](https://github.com/AshutoshXYadav/DSA/tree/master/0200-number-of-islands) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AshutoshXYadav/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0684-redundant-connection](https://github.com/AshutoshXYadav/DSA/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/AshutoshXYadav/DSA/tree/master/0733-flood-fill) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AshutoshXYadav/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/AshutoshXYadav/DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AshutoshXYadav/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0200-number-of-islands](https://github.com/AshutoshXYadav/DSA/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AshutoshXYadav/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AshutoshXYadav/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AshutoshXYadav/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AshutoshXYadav/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AshutoshXYadav/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0200-number-of-islands](https://github.com/AshutoshXYadav/DSA/tree/master/0200-number-of-islands) |
 | [0496-next-greater-element-i](https://github.com/AshutoshXYadav/DSA/tree/master/0496-next-greater-element-i) |
 | [0733-flood-fill](https://github.com/AshutoshXYadav/DSA/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/AshutoshXYadav/DSA/tree/master/0739-daily-temperatures) |
@@ -168,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/AshutoshXYadav/DSA/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/AshutoshXYadav/DSA/tree/master/0684-redundant-connection) |
 ## Graph Theory
 |  |
@@ -176,5 +180,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/AshutoshXYadav/DSA/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/AshutoshXYadav/DSA/tree/master/0733-flood-fill) |
 <!---LeetCode Topics End-->
