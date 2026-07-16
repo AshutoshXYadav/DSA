@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/AshutoshXYadav/DSA/tree/master/0066-plus-one) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AshutoshXYadav/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AshutoshXYadav/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0200-number-of-islands](https://github.com/AshutoshXYadav/DSA/tree/master/0200-number-of-islands) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/AshutoshXYadav/DSA/tree/master/0002-add-two-numbers) |
+| [0066-plus-one](https://github.com/AshutoshXYadav/DSA/tree/master/0066-plus-one) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/AshutoshXYadav/DSA/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2549-count-distinct-numbers-on-board](https://github.com/AshutoshXYadav/DSA/tree/master/2549-count-distinct-numbers-on-board) |
 ## Simulation
