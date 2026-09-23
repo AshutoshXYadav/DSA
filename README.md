@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AshutoshXYadav/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AshutoshXYadav/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0200-number-of-islands](https://github.com/AshutoshXYadav/DSA/tree/master/0200-number-of-islands) |
+| [0217-contains-duplicate](https://github.com/AshutoshXYadav/DSA/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/AshutoshXYadav/DSA/tree/master/0496-next-greater-element-i) |
 | [0733-flood-fill](https://github.com/AshutoshXYadav/DSA/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/AshutoshXYadav/DSA/tree/master/0739-daily-temperatures) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AshutoshXYadav/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AshutoshXYadav/DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0217-contains-duplicate](https://github.com/AshutoshXYadav/DSA/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/AshutoshXYadav/DSA/tree/master/0496-next-greater-element-i) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AshutoshXYadav/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1110-delete-nodes-and-return-forest](https://github.com/AshutoshXYadav/DSA/tree/master/1110-delete-nodes-and-return-forest) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/AshutoshXYadav/DSA/tree/master/0217-contains-duplicate) |
 | [0295-find-median-from-data-stream](https://github.com/AshutoshXYadav/DSA/tree/master/0295-find-median-from-data-stream) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/AshutoshXYadav/DSA/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 ## Heap (Priority Queue)
