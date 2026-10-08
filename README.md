@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AshutoshXYadav/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1110-delete-nodes-and-return-forest](https://github.com/AshutoshXYadav/DSA/tree/master/1110-delete-nodes-and-return-forest) |
 | [2549-count-distinct-numbers-on-board](https://github.com/AshutoshXYadav/DSA/tree/master/2549-count-distinct-numbers-on-board) |
+| [3223-minimum-length-of-string-after-operations](https://github.com/AshutoshXYadav/DSA/tree/master/3223-minimum-length-of-string-after-operations) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/AshutoshXYadav/DSA/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Divide and Conquer
 |  |
@@ -207,4 +208,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3220-odd-and-even-transactions](https://github.com/AshutoshXYadav/DSA/tree/master/3220-odd-and-even-transactions) |
+## String
+|  |
+| ------- |
+| [3223-minimum-length-of-string-after-operations](https://github.com/AshutoshXYadav/DSA/tree/master/3223-minimum-length-of-string-after-operations) |
+## Counting
+|  |
+| ------- |
+| [3223-minimum-length-of-string-after-operations](https://github.com/AshutoshXYadav/DSA/tree/master/3223-minimum-length-of-string-after-operations) |
 <!---LeetCode Topics End-->
