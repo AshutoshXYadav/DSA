@@ -203,4 +203,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/AshutoshXYadav/DSA/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+## Database
+|  |
+| ------- |
+| [3220-odd-and-even-transactions](https://github.com/AshutoshXYadav/DSA/tree/master/3220-odd-and-even-transactions) |
 <!---LeetCode Topics End-->
